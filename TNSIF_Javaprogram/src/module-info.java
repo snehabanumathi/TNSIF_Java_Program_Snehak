@@ -1,0 +1,2 @@
+module TNSIF_Javaprogram {
+}
